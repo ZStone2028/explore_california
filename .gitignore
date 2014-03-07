@@ -1,0 +1,10 @@
+#Comments
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+*.csv
+log/*.log
+log/*.log.[0-9]
+assets/videos/
+!assets/videos/tour_*.mp4
